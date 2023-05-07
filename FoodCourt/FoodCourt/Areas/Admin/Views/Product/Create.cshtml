@@ -1,0 +1,62 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="container">
+    <h1 class="text-center">Create Product</h1>
+    <hr />
+
+    <div class="row">
+        <div class="col-sm-6 offset-sm-3">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Slug"></label>
+                    <input asp-for="Slug" class="form-control" />
+                    <span asp-validation-for="Slug" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ShortDescription"></label>
+                    <textarea asp-for="ShortDescription" class="form-control"></textarea>
+                    <span asp-validation-for="ShortDescription" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Description"></label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Price"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="CategoryId" class="control-label"></label>
+                    <select asp-for="CategoryId" asp-items="Model.Categories" class="form-select"></select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Status" class="control-label"></label>
+                    <select asp-for="Status" asp-items="@(Html.GetEnumSelectList<ProductStatus>().Where(x => x.Value != "2"))" class="form-select"></select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ProductImages" class="control-label"></label>
+                    <input asp-for="ProductImages" class="form-control-file" multiple required><br />
+                    <span asp-validation-for="ProductImages" class="text-danger"></span>
+                </div>
+                <div class="d-flex mb-3">
+                    <button type="submit" class="btn btn-primary ms-auto">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+

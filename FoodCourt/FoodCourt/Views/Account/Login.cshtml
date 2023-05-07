@@ -1,0 +1,34 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">Register</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-6 offset-sm-3">
+            <form method="post">
+                <div class="mb-3">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <input asp-for="RememberMe"/>
+                    <label asp-for="RememberMe"></label>
+                    
+                </div>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="d-flex mb-3">
+                    <button type="submit" class="btn btn-primary ms-auto">Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

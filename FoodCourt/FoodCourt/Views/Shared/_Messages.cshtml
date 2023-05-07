@@ -1,0 +1,40 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+
+<script>
+    toastr.options.showEasing = 'swing';
+    toastr.options.hideEasing = 'linear';
+    toastr.options.closeEasing = 'linear';
+    toastr.options.closeMethod = 'fadeOut';
+    toastr.options.closeDuration = 300;
+    toastr.options.closeEasing = 'swing';
+    toastr.options.closeButton = true;
+    toastr.options.progressBar = true;
+
+    @if (TempData["Success"] != null)
+    {
+        <text>
+            toastr.success("@TempData["Success"]", "@TempData["Title"]");
+        </text>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <text>
+            toastr.error("@TempData["Error"]", "@TempData["Title"]");
+        </text>
+    }
+    @if (TempData["Warning"] != null)
+    {
+        <text>
+            toastr.warning("@TempData["Warning"]", "@TempData["Title"]");
+        </text>
+    }
+    @if (TempData["Info"] != null)
+    {
+        <text>
+            toastr.info("@TempData["Info"]", "@TempData["Title"]");
+        </text>
+    }
+
+</script>
