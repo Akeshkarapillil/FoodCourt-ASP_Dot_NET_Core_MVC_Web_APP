@@ -43,6 +43,10 @@ namespace FoodCourt.Controllers
             if (result.Succeeded)
             {
                 TempData.SetMessage(MessageType.Success, "User logged in.");
+                if(User.IsInRole("Admin"))
+                {
+                    return LocalRedirect("/Admin");
+                }
                 return LocalRedirect(ReturnUrl);
             }
             if (result.IsLockedOut)
@@ -96,10 +100,12 @@ namespace FoodCourt.Controllers
             return View(model);
         }
 
-        [HttpGet]
-        public  IActionResult Logout()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Logout()
         {
-            return View();
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Login");
         }
 
         [HttpGet]

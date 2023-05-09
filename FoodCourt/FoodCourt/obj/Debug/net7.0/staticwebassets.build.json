@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PbyqR9igkS2tTSSKhVe+0YgBQX4Vhwrx/dbpFwY1CFk=",
+  "Hash": "fne3rmjHf2xpU67zsm5lKgbojYrpnuKO1RZGHihGbuA=",
   "Source": "FoodCourt",
   "BasePath": "_content/FoodCourt",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FoodCourt\\wwwroot",
       "Source": "FoodCourt",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FoodCourt.styles.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FoodCourt.styles.css",
       "SourceId": "FoodCourt",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "FoodCourt.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FoodCourt.styles.css"
+      "OriginalItemSpec": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FoodCourt.styles.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodCourt.bundle.scp.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodCourt.bundle.scp.css",
       "SourceId": "FoodCourt",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "FoodCourt.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodCourt.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodCourt.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\css\\site.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\favicon.ico",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\js\\site.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-icons.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-icons.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\media\\0ac83cc5-6050-4771-b700-8c1fbd6575e0.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\0ac83cc5-6050-4771-b700-8c1fbd6575e0.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "media/0ac83cc5-6050-4771-b700-8c1fbd6575e0.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\media\\0ac83cc5-6050-4771-b700-8c1fbd6575e0.jpg"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\media\\75c77f2a-490a-4a2b-9545-c9344ed858c2.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\75c77f2a-490a-4a2b-9545-c9344ed858c2.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "media/75c77f2a-490a-4a2b-9545-c9344ed858c2.jpg",
       "AssetKind": "All",
@@ -1122,27 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\media\\75c77f2a-490a-4a2b-9545-c9344ed858c2.jpg"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\media\\85cf8eac-de06-4c18-a861-4ae91a213f00.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\b731c053-2f3f-491b-8f6a-c15220f22a2f.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
-      "BasePath": "_content/FoodCourt",
-      "RelativePath": "media/85cf8eac-de06-4c18-a861-4ae91a213f00.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\85cf8eac-de06-4c18-a861-4ae91a213f00.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\media\\b731c053-2f3f-491b-8f6a-c15220f22a2f.jpg",
-      "SourceId": "FoodCourt",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "media/b731c053-2f3f-491b-8f6a-c15220f22a2f.jpg",
       "AssetKind": "All",
@@ -1156,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\media\\b731c053-2f3f-491b-8f6a-c15220f22a2f.jpg"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\media\\bd888e5d-ef8a-4064-9867-afb9d61390d4.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\bd888e5d-ef8a-4064-9867-afb9d61390d4.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
       "RelativePath": "media/bd888e5d-ef8a-4064-9867-afb9d61390d4.jpg",
       "AssetKind": "All",
@@ -1171,6 +1154,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\bd888e5d-ef8a-4064-9867-afb9d61390d4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg",
+      "SourceId": "FoodCourt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "BasePath": "_content/FoodCourt",
+      "RelativePath": "media/d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg",
+      "SourceId": "FoodCourt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
+      "BasePath": "_content/FoodCourt",
+      "RelativePath": "media/e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg"
     }
   ]
 }

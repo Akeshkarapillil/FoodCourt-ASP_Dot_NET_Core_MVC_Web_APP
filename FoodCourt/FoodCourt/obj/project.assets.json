@@ -10014,11 +10014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\FoodCourt.csproj",
+      "projectUniqueName": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\FoodCourt.csproj",
       "projectName": "FoodCourt",
-      "projectPath": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\FoodCourt.csproj",
+      "projectPath": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\FoodCourt.csproj",
       "packagesPath": "C:\\Users\\akesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akesh\\OneDrive\\Desktop\\Study Materials\\Class\\DotNet\\FoodCourt\\FoodCourt\\obj\\",
+      "outputPath": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

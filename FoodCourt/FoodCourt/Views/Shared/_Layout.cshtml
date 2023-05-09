@@ -25,14 +25,35 @@
                         </li>
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">
-                                    Welcome @User.FindFirstValue(ClaimTypes.Email)
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Logout</a>
-                            </li>
+                            if (User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="Admin" asp-controller="Home" asp-action="Index">
+                                        Welcome @User.FindFirstValue(ClaimTypes.Email)
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Logout</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">
+                                        Welcome @User.FindFirstValue(ClaimTypes.Email)
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Logout</a>
+                                </li>
+                            }
+                            
                         }
                         else
                         {
@@ -54,6 +75,27 @@
         </main>
     </div>
 
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p><i class="fa fa-question-circle"></i> Are you sure you want to log-off? <br /></p>
+                    <div class="actionsBtns">
+                        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post">
+                            <input type="submit" class="btn btn-default btn-primary" data-dismiss="modal" value="Logout" />
+                            <button type="button" class="btn btn-default" data-bs-dismiss="modal" aria-label="Close">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2023 - FoodCourt - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -64,5 +106,6 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
     <partial name="_Messages"/>
+    <partial name="_Markdown"/>
 </body>
 </html>
