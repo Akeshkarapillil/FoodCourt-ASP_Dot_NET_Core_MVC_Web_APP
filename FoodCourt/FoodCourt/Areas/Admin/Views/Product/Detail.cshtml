@@ -131,9 +131,18 @@
         <div class="col-lg-12">
             <h3>Description</h3>
             <hr />
-            <p style="text-align: justify">
-                @Model.Description
-            </p>
+            @*<p style="text-align: justify" id="Descriptionn">
+                
+            </p>*@
+            <textarea id="Description" readonly>@Model.Description</textarea>
         </div>
     </div>
 </div>
+
+
+@section Scripts{
+    <script>
+        var simplemde = new SimpleMDE({ element: document.getElementById("Description"), hideIcons: true });
+        simplemde.togglePreview();
+    </script>
+}

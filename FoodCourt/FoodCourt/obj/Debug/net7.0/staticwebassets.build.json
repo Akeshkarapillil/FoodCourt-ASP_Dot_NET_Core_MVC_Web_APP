@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fne3rmjHf2xpU67zsm5lKgbojYrpnuKO1RZGHihGbuA=",
+  "Hash": "/zdh/XIToIN2yyZtvdN8RAWn3WixLOKSy3MLM81fqWY=",
   "Source": "FoodCourt",
   "BasePath": "_content/FoodCourt",
   "Mode": "Default",
@@ -1156,12 +1156,12 @@
       "OriginalItemSpec": "wwwroot\\media\\bd888e5d-ef8a-4064-9867-afb9d61390d4.jpg"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\c121f6bc-36e6-4fce-a566-820edae87b08.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
-      "RelativePath": "media/d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg",
+      "RelativePath": "media/c121f6bc-36e6-4fce-a566-820edae87b08.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\d935eb6f-3dcb-4110-be45-cda4e6de56ea.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\c121f6bc-36e6-4fce-a566-820edae87b08.jpg"
     },
     {
-      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg",
+      "Identity": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\media\\c81fe04d-2068-4993-9b29-985620c34396.jpg",
       "SourceId": "FoodCourt",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\akesh\\OneDrive\\Documents\\GitHub\\FoodCourt-ASP_Dot_NET_Core_MVC_Web_APP\\FoodCourt\\FoodCourt\\wwwroot\\",
       "BasePath": "_content/FoodCourt",
-      "RelativePath": "media/e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg",
+      "RelativePath": "media/c81fe04d-2068-4993-9b29-985620c34396.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,7 +1187,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\e0279034-3ce6-432d-94e5-5a8e49dd438f.jpg"
+      "OriginalItemSpec": "wwwroot\\media\\c81fe04d-2068-4993-9b29-985620c34396.jpg"
     }
   ]
 }

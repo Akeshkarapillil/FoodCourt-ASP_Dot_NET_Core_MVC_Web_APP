@@ -1,8 +1,10 @@
 ﻿using FoodCourt.Core.ExtensionMethods;
 using FoodCourt.Models.Entities;
 using FoodCourt.Models.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace FoodCourt.Controllers
 {
@@ -98,6 +100,49 @@ namespace FoodCourt.Controllers
             }
             TempData.SetMessage(MessageType.Error, "Account creation failed.");
             return View(model);
+        }
+
+        [Authorize]
+        [HttpGet]
+        public async Task<IActionResult> Profile()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
+            var model = new ProfileUpdateViewModel()
+            {
+                Email = user.Email,
+                FirstName = user.FirstName,
+                LastName = user.LastName
+            };
+            return View(model);
+        }
+
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> Profile([FromForm] ProfileUpdateViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
+
+
+            var emailExists = await _userManager.FindByEmailAsync(model.Email);
+            if(emailExists == null)
+            {
+                ModelState.AddModelError("Email", "Email already taken");
+                return View(model);
+            }
+
+            user.Email = model.Email; 
+            user.FirstName = model.FirstName; 
+            user.LastName = model.LastName;
+
+            await _userManager.UpdateAsync(user);
+            return RedirectToAction(nameof(Profile));
         }
 
         [HttpPost]
